@@ -4,7 +4,6 @@
 This repository contains:
 
 1) 'multiplexPageRank.m' a matlab function to compute the Multiplex PageRank 
-
     the  code can be redistributed and/or modified under the terms of the GNU 
     General Public License as published by the Free Software Foundation, either 
     version 3 of the License, or (at your option) any later version.
