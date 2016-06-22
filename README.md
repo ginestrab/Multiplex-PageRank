@@ -7,7 +7,6 @@ This repository contains:
     the  code can be redistributed and/or modified under the terms of the GNU 
     General Public License as published by the Free Software Foundation, either 
     version 3 of the License, or (at your option) any later version.
-  
     This program is distributed ny the authors in the hope that it will be 
     useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -26,7 +25,6 @@ This repository contains:
 2) 'dataNoordinTerroristNetwork.mat' a multiplex dataset describing the Noordin terrorist 
     network at the level of trust relations (T), communications (C), operations (O) (see 
     ref [2] for details). 
-   
     If you use this dataset you should cite   
 
 
