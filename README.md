@@ -25,6 +25,7 @@ This repository contains:
 2) 'dataNoordinTerroristNetwork.mat' a multiplex dataset describing the Noordin terrorist 
     network at the level of trust relations (T), communications (C), operations (O) (see 
     ref [2] for details). 
+    
     If you use this dataset you should cite   
 
 
