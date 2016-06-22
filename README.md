@@ -44,6 +44,7 @@ This repository contains:
     - the Multiplex PageRank of the layer communication given the standard PageRank on the layer trust: MPR(C|T)  
     - the Multiplex PageRank of the layer operation given the Multiplex PageRank C|T: MPR(O|C|T)
 
+
  
 For any question please contact me! : mriacovacci@hotmail.it  (mriacovacci AT hotmail DOT it)
 
