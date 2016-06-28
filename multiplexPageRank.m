@@ -13,7 +13,7 @@
 %  
 % If you use this code please cite 
 %
-% [1] A. Halu, R. J. Mondragón, P. Panzarasa, and G. Bianconi, 
+% [1] A. Halu, R. J. MondragÃ³n, P. Panzarasa, and G. Bianconi, 
 %    "Multiplex pagerank." PloS one 8, no. 10 (2013): e78293.  
 %
 % [2] J. Iacovacci and G. Bianconi, "Extracting Information from Multiplex Networks." 
@@ -41,6 +41,9 @@ function [x,X]=multiplexPageRank(A,alpha,beta,gamma)
 % beta=1, gamma=1 Combined Multiplex PageRank
 % beta=1, gamma=0 Multiplicative Multiplex PageRank
 % beta=0, gamma=1 Additive Multiplex PageRank
+% 
+% The input matrix A{i} can be directed with the convention that A{i}(j,l) 
+% is the value of the link from l to j  
 
 
 v_quadratic_error=0.0001;
