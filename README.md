@@ -22,31 +22,5 @@ This repository contains:
 
 
 
-2) 'dataNoordinTerroristNetwork.mat' a multiplex dataset describing the Noordin terrorist 
-    network at the level of trust relations (T), communications (C), operations (O) (see 
-    ref [2] for details). 
-    
-    If you use this dataset you should cite   
 
-
-    [1] F. Battiston, V. Nicosia and V. Latora, "Structural measures for multiplex networks." 
-        Physical Review E 89.3 (2014): 032804.
-
-
-    [2] J. Iacovacci and G. Bianconi, "Extracting Information from Multiplex Networks." 
-        Chaos: An interdisciplinary Journal of Nonlinear Science 26 (6) (2013): e78293.  
-
-
-
-3) 'Noordin_Terrorist_Network_Analysis.m' a basic matlab script performing the Multiplex PageRank 
-    analysis of the Noordin terrorist multiplex as guidance exaple. an output figure is genered showing:
-    - the standard PageRank in the layer of the trust: PR(T)     
-    - the Multiplex PageRank of the layer communication given the standard PageRank on the layer trust: MPR(C|T)  
-    - the Multiplex PageRank of the layer operation given the Multiplex PageRank C|T: MPR(O|C|T)
-
-
- 
-For any question please contact me! : mriacovacci@hotmail.it  (mriacovacci AT hotmail DOT it)
-
-
-(c) Jacopo Iacovacci
+(c) Jacopo Iacovacci and Ginestra Bianconi
